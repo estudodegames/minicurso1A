@@ -1,5 +1,5 @@
-# demos-lista1
-Vídeos demonstrativos dos oBjetidos dos exercícios da lista 1.
+# LISTA DE EXERCÍCIOS 1 
+Vídeos demonstrativos dos objetidos dos exercícios da lista 1.
 
 LINK OFICIAL DO VÍDEO DE APRESENTAÇÃO DO APPNOTAS (1)
 https://youtu.be/vgkHyFidhGA
