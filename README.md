@@ -2,7 +2,7 @@
 Vídeos demonstrativos dos objetidos dos exercícios da lista 1.
 
 LINK OFICIAL DO VÍDEO DE APRESENTAÇÃO DO APPNOTAS (1)
-https://youtu.be/vgkHyFidhGA
+<p>https://youtu.be/vgkHyFidhGA
 
 LINK OFICIAL DO VÍDEO DE APRESENTAÇÃO DO APPNOTAS (2)
 https://youtu.be/yE7QxcLD528
