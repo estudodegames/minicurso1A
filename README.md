@@ -17,7 +17,7 @@
 ![LISTA 1 - APPCONSULTORIO Lógica de Programação na Unity-1](https://github.com/user-attachments/assets/31f41818-31b5-4564-bc18-9e860f7053a5)
 
 
-<br>4º projetoi - Link oficial do vídeo de apresentação do APPCORES
+<br>4º projeto - Link oficial do vídeo de apresentação do APPCORES
 <br>https://youtu.be/rYtJItOK4y8
 ![LISTA 1 - APPCORES Lógica de Programação na Unity-1](https://github.com/user-attachments/assets/8ffb9947-493b-4bf9-ac9d-52a2243e87a7)
 ![LISTA 1 - APPCORES Lógica de Programação na Unity-2](https://github.com/user-attachments/assets/093032be-fe43-4022-9164-80d96e606d40)
