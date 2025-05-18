@@ -25,7 +25,7 @@ De acordo com as soluções no 1º PROJETO e do 2º PROJETO, alterar a programa�
 
 
 <h2>4º projeto - App CONSULTORIO  </h2>
-De acordo com a leitura de: <b>Idade do paciente</b>, <b>Preço da consulta </b>, <b>	Categoria. </b>
+De acordo com a leitura de: <b>Nome do paciente</b>, <b>Preço da consulta </b>, <b>	Categoria. </b>
   Pede-se:
 <br> A)	Qual o lucro do consultório com os atendimentos? 
 <br> B)	Qual a média de preços das consultas dos idosos?
