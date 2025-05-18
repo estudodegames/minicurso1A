@@ -24,7 +24,6 @@ Link oficial do vídeo de apresentação do APPNOTAS (2): https://youtu.be/yE7Qx
 <b>3º projeto - AppNOTAS (Reestruturação com técnica nova) </b>
 <br>De acordo com as soluções no 1º PROJETO e do 2º PROJETO, alterar a programação do appnotas para utilizar estrutura de dados homogêneos (vetor).
 
-Link oficial do vídeo de apresentação do App CONSULTORIO: https://youtu.be/FzKKhcewhFs?si=2jHGhhJJMRs_gPUR
 ![AppNotas_VETOR](https://github.com/user-attachments/assets/41efc03b-057c-4a5b-8bb6-79f45bcf8e30)
 
 <hr>
