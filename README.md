@@ -29,7 +29,14 @@ Link oficial do vídeo de apresentação do App CONSULTORIO: https://youtu.be/Fz
 
 <hr>
 
-<b>5º projeto - Link oficial do vídeo de apresentação do APPCORES </b>
+<b>4º projeto - App CONSULTORIO  </b>
+<br> De acordo com a leitura de: <b>Idade do paciente</b>, <b>Preço da consulta </b>, <b>	Categoria </b>
+
+<i>Observações:</i>
+<br> Idoso <b>(65 anos ou mais)</b>
+<br> Não idoso <b>(menos de 65 anos)</b>
+
+Link oficial do vídeo de apresentação do App CONSULTORIO: https://youtu.be/FzKKhcewhFs?si=ERywScY-fz1FEbtE
 
 <hr>
 
