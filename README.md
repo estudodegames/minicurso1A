@@ -1,7 +1,7 @@
 
 ![capa-minicurso1](https://github.com/user-attachments/assets/d537ae05-5046-4a9e-88fe-aac5a461abd6)
 
-<h2>1º projeto - APPNOTAS (1) </h2>
+<h2>1º projeto - AppNOTAS (1) </h2>
 De acordo com a leitura de dados (via teclado), de 2 notas para cada aluno, pede-se: 
 <br> A)	Cálculo da média aritmética de cada aluno.
 <br> B)	Apresentar a média arimética calculada para cada aluno. 
@@ -9,7 +9,7 @@ De acordo com a leitura de dados (via teclado), de 2 notas para cada aluno, pede
 Link oficial do vídeo de apresentação do APPNOTAS (1): https://youtu.be/vgkHyFidhGA
 
 
-<h2>2º projeto - APPNOTAS (2) </h2>
+<h2>2º projeto - AppNOTAS (2) </h2>
 De acordo com a solução do App Notas (1), pede-se:  
 <br> A)	Verificar se o aluno obteve média maior ou igual a 6 para aprovação. 
 <br> B)	Caso contrário, o aluno está reprovado. 
@@ -24,7 +24,7 @@ De acordo com as soluções no 1º PROJETO e do 2º PROJETO, alterar a programa�
 ![AppNotas_VETOR](https://github.com/user-attachments/assets/41efc03b-057c-4a5b-8bb6-79f45bcf8e30)
 
 
-<h2>4º projeto - App CONSULTORIO  </h2>
+<h2>4º projeto - AppCONSULTORIO  </h2>
 De acordo com a leitura de: <b>Nome do paciente</b>, <b>Preço da consulta </b>, <b>	Categoria. </b>
   Pede-se:
 <br> A)	Qual o lucro do consultório com os atendimentos? 
@@ -38,7 +38,7 @@ De acordo com a leitura de: <b>Nome do paciente</b>, <b>Preço da consulta </b>,
 
 <br>Link oficial do vídeo de apresentação do App CONSULTORIO: https://youtu.be/FzKKhcewhFs?si=ERywScY-fz1FEbtE
 
-<h2>5º projeto - APPCORES </h2>
+<h2>5º projeto - AppCORES </h2>
 De acordo com a leitura de dados (via clique do mouse), pede-se: 
 <br> A)	Calcular o total de cliques de cada cor. 
 <br> B)	Ao final, apresentar a cor que conquistou mais votos dos usuários.
