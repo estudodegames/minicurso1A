@@ -11,7 +11,7 @@ Link oficial do vídeo de apresentação do APPNOTAS (1): https://youtu.be/vgkHy
 
 <h2>2º projeto - APPNOTAS (2) </h2>
 De acordo com a solução do App Notas (1), pede-se:  
-A)	Verificar se o aluno obteve média maior ou igual a 6 para aprovação. 
+<br> A)	Verificar se o aluno obteve média maior ou igual a 6 para aprovação. 
 <br> B)	Caso contrário, o aluno está reprovado. 
 <br> C)	Na lógica, não trataremos da condição da recuperação.
 <br> D)	Ao final, informe o total de alunos cadastrados e a média geral da turma. 
