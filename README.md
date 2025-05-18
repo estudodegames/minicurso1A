@@ -54,4 +54,10 @@ A)	Qual o total de pessoas que clicaram na cor amarela?
 <br> C)	Qual a cor mais votada (ganhadora)?
 
 <br>Link oficial do vídeo de apresentação do APPCORES: https://youtu.be/rYtJItOK4y8
+![1_AppCORES_PARTE1_A](https://github.com/user-attachments/assets/f539c3fa-b72d-41b5-a948-21c3e8f711fc)
+![AppCORES_PARTE2](https://github.com/user-attachments/assets/058e27ce-f03e-4721-befe-96cd1070961e)
+![AppCORES_PARTE1_C_FLUXO](https://github.com/user-attachments/assets/ddafcd38-f639-44dd-987f-ab640caa9f22)
+![2_AppCORES_PARTE1_B](https://github.com/user-attachments/assets/9ac892d1-d8d5-4731-85a0-0f89231dea6d)
+
+
 
