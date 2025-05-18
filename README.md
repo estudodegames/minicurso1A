@@ -30,17 +30,28 @@ Link oficial do vídeo de apresentação do App CONSULTORIO: https://youtu.be/Fz
 <hr>
 
 <b>4º projeto - App CONSULTORIO  </b>
-<br> De acordo com a leitura de: <b>Idade do paciente</b>, <b>Preço da consulta </b>, <b>	Categoria </b>
+<br> De acordo com a leitura de: <b>Idade do paciente</b>, <b>Preço da consulta </b>, <b>	Categoria. </b>
+  Pede-se:
+<br> A)	Qual o lucro do consultório com os atendimentos? 
+<br> B)	Qual a média de preços das consultas dos idosos?
+<br> C)	Total geral de pacientes atendidos no consultório.
 
-<i>Observações:</i>
-<br> Idoso <b>(65 anos ou mais)</b>
-<br> Não idoso <b>(menos de 65 anos)</b>
+<i>Observações: Para o campo de</i> <b>Categoria</b>, <i>considerar:</i>
+<br> --> Idoso <b>(65 anos ou mais)</b>
+<br> --> Não idoso <b>(menos de 65 anos)</b>
 
 Link oficial do vídeo de apresentação do App CONSULTORIO: https://youtu.be/FzKKhcewhFs?si=ERywScY-fz1FEbtE
 
 <hr>
 
-<b>5º projeto - Link oficial do vídeo de apresentação do APPCORES </b>
-<br> Link oficial do vídeo de apresentação do APPCORES
-<br>https://youtu.be/rYtJItOK4y8
+<b>5º projeto - APPCORES </b>
+<br>De acordo com a leitura de dados (via clique do mouse), pede-se: 
+<br> A)	Calcular o total de cliques de cada cor. 
+<br> B)	Ao final, apresentar a cor que conquistou mais votos dos usuários.
+<p>Como o objetivo é exercitar, foram estabelecidas apenas 2 cores para votos do usuário. Portanto, como relatório final do app, pede-se: </p>
+A)	Qual o total de pessoas que clicaram na cor amarela? 
+<br> B)	Qual o total de pessoas que clicaram na cor azul?
+<br> C)	Qual a cor mais votada (ganhadora)?
+
+<br>Link oficial do vídeo de apresentação do APPCORES: https://youtu.be/rYtJItOK4y8
 
